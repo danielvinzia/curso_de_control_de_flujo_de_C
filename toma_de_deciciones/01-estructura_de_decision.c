@@ -1,5 +1,4 @@
 // EJEMPLO DE COMO ESCRIBIR UN IF
-// SE PUEDEN PONER TODOS LOS ELSE IF QUE QUIERA
 /*
 if (expresion) {
     statement1
